@@ -6,7 +6,7 @@ pluginManagement {
   }
 }
 
-rootProject.name="deploy-strategy-orca"
+rootProject.name="deploy-strategy-plugin-spinnaker"
 
 include "deploy-strategy-orca"
 

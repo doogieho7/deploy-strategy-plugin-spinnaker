@@ -6,7 +6,7 @@ pluginManagement {
   }
 }
 
-rootProject.name="deployStrategyPlugin"
+rootProject.name="deploy-strategy-orca"
 
 include "deploy-strategy-orca"
 

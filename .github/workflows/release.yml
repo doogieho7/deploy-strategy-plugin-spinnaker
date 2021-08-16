@@ -24,6 +24,9 @@ jobs:
       - name: build
         run: ./gradlew releaseBundle
 
+      - name: print plugin-info.json
+        run: cat build/distributions/plugin-info.json
+
       - name: get project info
         id: get_project_info
         run: |
